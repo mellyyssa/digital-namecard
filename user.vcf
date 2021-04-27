@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Chan;Melissa;;;
 FN: Melissa  Chan 
-ORG:FinanceGuru;
-TITLE:Senior Loan Consultant
+ORG:ERA Realty Network Pte Ltd;
+TITLE:Associate
 EMAIL;type=INTERNET;type=WORK;type=pref:melissa@financeguru.sg
 TEL;type=WORK;type=VOICE:+65 8102 1221
-item1.ADR;type=WORK;type=pref:;;18 Sin Ming Lane\nMidview City\, 07-25;;;53960;Singapore
+item1.ADR;type=WORK;type=pref:;;450 Lorong 6 Toa Payoh\nAPAC Centre\;;;31939;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:financeguru.sg
+item2.URL;type=pref:allurehomes.sg
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
